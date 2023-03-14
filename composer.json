@@ -1,0 +1,11 @@
+{
+  "name": "mvc/ecommerce",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "william-costa/dot-env": "^0.1.0"
+  }
+}
